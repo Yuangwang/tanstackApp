@@ -1,0 +1,8 @@
+version: v1
+runConfig:
+  runCommand: node .output/server/index.mjs
+metadata:
+  framework: nitro
+  frameworkVersion: 2.x
+  adapterPackageName: nitropack
+  adapterVersion: 2.11.0-20241111-124621.9563e9a7
